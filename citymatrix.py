@@ -184,6 +184,7 @@ class CityMatrix(object):
         return smallworld
 
     def distane(self,city1,city2):
+        print(city1,city2)
         cityid1 = self.city_id_map[city1]
         cityid2 = self.city_id_map[city2]
         return  citygeomk.haversine(self.get_geo(cityid1), self.get_geo(cityid2))
@@ -239,7 +240,7 @@ class CityMatrix(object):
             logger.debug("len(cityidrange) <=2: cityidrange:{0}".format(cityidrange) )
             rsp["from2"]=city1
             rsp["to2"]=city2
-            rsp["distance"]=self.distane( city1,cityid2)
+            rsp["distance"]=self.distane( city1,city2)
             rsp["pass2"]=[]
             rsp["pass"]=[ ]
             rsp["from"] = self.city_id_map2[city1]
@@ -363,13 +364,13 @@ class CityMatrix(object):
 
 def main():
     cm=CityMatrix()
-    city1, city2 = "佛山", "白城"
+    city1, city2 = "上海", "南通"
     t1=time.time()
 
-    # p1=cm.query(city1,city2)
+    p1=cm.query(city1,city2)
 
-    # print(p1)
-    cm.queryallpath()
+    print(p1)
+    # cm.queryallpath()
     # dis1=cm.distane(city1,city2)
     # dis2=cm.distane(city2,city1)
     # print(dis1,dis2)
