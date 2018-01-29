@@ -1,0 +1,534 @@
+id,name,pid,py,level,city_code
+1,安徽,0,CN_Anhui,1,0
+2,安庆,1,Anqing,2,556
+3,蚌埠,1,Bengbu,2,552
+4,亳州,1,Bozhou,2,558
+5,巢湖,1,Chaohu,2,565
+6,池州,1,Chizhou,2,566
+7,滁州,1,Chuzhou,2,550
+8,阜阳,1,Fuyang,2,1558
+9,淮北,1,Huaibei,2,561
+10,合肥,1,Hefei,2,551
+11,淮南,1,Huainan,2,554
+12,黄山,1,Huangshan,2,559
+13,六安,1,Luan,2,564
+14,马鞍山,1,MOS,2,555
+15,宿州,1,Suzhou,2,557
+16,铜陵,1,Tongling,2,562
+17,芜湖,1,Wuhu,2,553
+18,宣城,1,Xuancheng,2,563
+19,澳门,0,CN_Macau,1,1853
+20,大堂区,19,Cathedral,2,0
+21,氹仔,19,Taipa,2,0
+22,风顺堂区,19,St. Lawrence,2,0
+23,花地玛堂区,19,Fatima,2,0
+24,路环岛,19,Coloane,2,0
+25,圣安多尼堂区,19,St. Anthony,2,0
+26,望德堂区,19,St. Lazarus,2,0
+27,北京,0,CN_Beijing,1,10
+28,昌平,27,Changping,2,0
+29,朝阳,27,Chaoyang,2,0
+30,东城,27,East,2,0
+31,大兴,27,Daxing,2,0
+32,房山,27,Fangshan,2,0
+33,丰台,27,Fengtai,2,0
+34,海淀,27,Haidian,2,0
+35,怀柔,27,Huairou,2,0
+36,门头沟,27,Mentougou,2,0
+37,密云,27,Miyun,2,0
+38,平谷,27,Pinggu,2,0
+39,石景山,27,Shijingshan,2,0
+40,顺义,27,Shunyi,2,0
+41,通州,27,Tongzhou,2,0
+42,西城,27,West,2,0
+43,延庆,27,Yanqing,2,0
+44,重庆,0,CN_Chongqing,1,23
+45,北碚,44,Beibei,2,0
+46,巴南,44,Banan,2,0
+47,璧山,44,Bishan,2,0
+48,城口,44,Chengkou,2,0
+49,长寿,44,longevity,2,0
+50,大渡口,44,Dadukou,2,0
+51,垫江,44,Dianjiang,2,0
+52,大足,44,Dazu,2,0
+53,丰都,44,Fengdu,2,0
+54,奉节,44,Fengjie,2,0
+55,涪陵,44,Fuling,2,0
+56,合川,44,Aikawa,2,0
+57,江北,44,Jiangbei,2,0
+58,江津,44,Jiangjin,2,0
+59,九龙坡,44,Jiulongpo,2,0
+60,开县,44,Kaixian,2,0
+61,两江新区,44,Two Rivers,2,0
+62,梁平,44,Liangping,2,0
+63,南岸,44,South Bank,2,0
+64,南川,44,Nanchuan,2,0
+65,彭水,44,Pengshui,2,0
+66,綦江,44,Qijiang,2,0
+67,黔江,44,Qianjiang,2,0
+68,荣昌,44,Rongchang,2,0
+69,沙坪坝,44,Shapingba,2,0
+70,双桥,44,Shuangqiao,2,0
+71,石柱,44,columns,2,0
+72,铜梁,44,Tongliang,2,0
+73,潼南,44,Tongnan,2,0
+74,武隆,44,Wulong,2,0
+75,万盛,44,Pine Valley,2,0
+76,巫山,44,Wushan,2,0
+77,巫溪,44,Wuxi,2,0
+78,万州,44,Wanzhou,2,0
+79,秀山,44,Xiushan,2,0
+80,渝北,44,Yubei,2,0
+81,永川,44,Yongchuan,2,0
+82,云阳,44,Yunyang,2,0
+83,酉阳,44,Youyang,2,0
+84,渝中,44,Yuzhong,2,0
+85,忠县,44,Zhongxian,2,0
+86,福建,0,CN_Fujian,1,0
+87,福州,86,Fuzhou,2,591
+88,龙岩,86,Longyan,2,597
+89,宁德,86,Ningde,2,593
+90,南平,86,Nanping,2,599
+91,莆田,86,Putian,2,594
+92,泉州,86,Quanzhou,2,595
+93,三明,86,Sanming,2,598
+94,厦门,86,Xiamen,2,592
+95,漳州,86,Zhangzhou,2,596
+96,广东,0,CN_Guangdong,1,0
+97,潮州,96,Chaozhou,2,768
+98,东莞,96,Dongguan,2,769
+99,佛山,96,Foshan,2,757
+100,广州,96,Guangzhou,2,20
+101,河源,96,Heyuan,2,762
+102,惠州,96,Huizhou,2,752
+103,江门,96,Jiangmen,2,750
+104,揭阳,96,Jieyang,2,663
+105,茂名,96,Maoming,2,668
+106,梅州,96,Meizhou,2,753
+107,清远,96,Qingyuan,2,763
+108,韶关,96,Shaoguan,2,751
+109,汕头,96,Shantou,2,754
+110,汕尾,96,Shanwei,2,660
+111,深圳,96,Shenzhen,2,755
+112,云浮,96,Yunfu,2,766
+113,阳江,96,Yangjiang,2,662
+114,珠海,96,Zhuhai,2,756
+115,湛江,96,Zhanjiang,2,759
+116,肇庆,96,Zhaoqing,2,758
+117,中山,96,Zhongshan,2,760
+118,甘肃,0,CN_Gansu,1,0
+119,白银,118,Silver,2,943
+120,定西,118,Dingxi,2,932
+121,甘南,118,Gannan,2,941
+122,金昌,118,Jinchang,2,935
+123,酒泉,118,Jiuquan,2,937
+124,嘉峪关,118,Jiayuguan,2,1937
+125,陇南,118,Longnan,2,2935
+126,临夏,118,Linxia,2,930
+127,兰州市,118,Lanzhou,2,931
+128,平凉,118,Pingliang,2,933
+129,庆阳,118,Qingyang,2,934
+130,天水,118,Tin Shui,2,938
+131,武威,118,Wuwei,2,1935
+132,张掖,118,Zhangye,2,936
+133,广西,0,CN_Guangxi,1,0
+134,北海,133,Beihai,2,779
+135,百色,133,Baise,2,776
+136,崇左,133,Chongzuo,2,1771
+137,防城港,133,Fangchenggang,2,770
+138,贵港,133,Guigang,2,1755
+139,桂林,133,Guilin,2,773
+140,河池,133,Hechi,2,778
+141,贺州,133,Hezhou,2,1774
+142,来宾,133,guests,2,1772
+143,柳州,133,Liuzhou,2,772
+144,南宁,133,Nanning,2,771
+145,钦州,133,Chow,2,777
+146,梧州,133,Wuzhou,2,774
+147,玉林,133,Yulin,2,775
+148,贵州,0,CN_Guizhou,1,0
+149,安顺,148,Anshun,2,853
+150,毕节,148,Bijie,2,857
+151,贵阳,148,Guiyang,2,851
+152,六盘水,148,Liupanshui,2,858
+153,黔东南,148,Southeast,2,855
+154,黔南,148,South Guizhou,2,854
+155,黔西南,148,Southwest Guizhou,2,859
+156,铜仁,148,Tongren,2,856
+157,遵义,148,Lawrence,2,852
+158,湖北,0,CN_Hubei,1,0
+159,恩施,158,Enshi,2,718
+160,鄂州,158,Ezhou,2,711
+161,黄冈,158,Huanggang,2,713
+162,黄石,158,Yellowstone,2,714
+163,荆门,158,Jingmen,2,724
+164,荆州,158,Jingzhou,2,716
+165,潜江,158,Qianjiang,2,2728
+166,神农架,158,Shennongjia,2,1719
+167,十堰,158,Shiyan,2,719
+168,随州,158,Suizhou,2,722
+169,天门,158,Tianmen,2,1728
+170,武汉,158,Wuhan,2,27
+171,孝感,158,Xiaogan,2,712
+172,咸宁,158,Xianning,2,715
+173,仙桃,158,Bristol,2,728
+174,襄阳,158,Yangyang,2,710
+175,宜昌,158,Yichang,2,717
+176,河北,0,CN_Hebei,1,0
+177,保定,176,Baoding,2,312
+178,承德,176,Chengde,2,314
+179,沧州,176,Cangzhou,2,317
+180,邯郸,176,Handan,2,310
+181,衡水,176,Hengshui,2,318
+182,廊坊,176,Langfang,2,316
+183,秦皇岛,176,Qinhuangdao,2,335
+184,石家庄,176,Shijiazhuang,2,311
+185,唐山,176,Tangshan,2,315
+186,邢台,176,Xingtai,2,319
+187,张家口,176,Zhangjiakou,2,313
+188,黑龙江,0,CN_Heilongjiang,1,0
+189,大庆,188,Daqing,2,459
+190,大兴安岭,188,Mountains,2,457
+191,哈尔滨,188,Harbin,2,451
+192,鹤岗,188,Hegang,2,468
+193,黑河,188,Heihe,2,456
+194,佳木斯,188,Jiamusi,2,454
+195,鸡西,188,Jixi,2,467
+196,牡丹江,188,Mudanjiang,2,453
+197,齐齐哈尔,188,Qiqihar,2,452
+198,七台河,188,Qitaihe,2,464
+199,绥化,188,Suihua,2,455
+200,双鸭山,188,Shuangyashan,2,469
+201,伊春,188,Yichun,2,458
+202,湖南,0,CN_Hunan,1,0
+203,常德,202,Changde,2,736
+204,长沙,202,Changsha,2,731
+205,郴州,202,Chenzhou,2,735
+206,怀化,202,Huaihua,2,745
+207,衡阳,202,Hengyang,2,734
+208,娄底,202,Loudi,2,738
+209,邵阳,202,Shaoyang,2,739
+210,湘潭,202,Xiangtan,2,732
+211,湘西,202,Xiangxi,2,743
+212,益阳,202,Yiyang,2,737
+213,岳阳,202,Yueyang,2,730
+214,永州,202,Yongzhou,2,746
+215,张家界,202,Zhangjiajie,2,744
+216,株洲,202,Zhuzhou,2,733
+217,河南,0,CN_Henan,1,0
+218,安阳,217,Anyang,2,372
+219,鹤壁,217,Hebi,2,392
+220,济源,217,Jiyuan,2,1391
+221,焦作,217,Jiaozuo,2,391
+222,开封,217,Kaifeng,2,378
+223,漯河,217,Luohe,2,395
+224,洛阳,217,Luoyang,2,379
+225,南阳,217,Nanyang,2,377
+226,平顶山,217,mesa,2,375
+227,濮阳,217,Puyang,2,393
+228,三门峡,217,Sanmenxia,2,398
+229,商丘,217,Shangqiu,2,370
+230,许昌,217,Xuchang,2,374
+231,新乡,217,Xinxiang,2,373
+232,信阳,217,Xinyang,2,376
+233,周口,217,Zhoukou,2,394
+234,驻马店,217,Zhumadian,2,396
+235,郑州,217,Zhengzhou,2,371
+236,海南,0,CN_Hainan,1,0
+237,白沙,236,White Sands,2,802
+238,保亭,236,Baoting,2,801
+239,昌江,236,Changjiang,2,803
+240,澄迈,236,Chengmai,2,804
+241,定安,236,Honour,2,806
+242,东方,236,East,2,807
+243,儋州,236,Danzhou,2,805
+244,海口,236,Haikou,2,898
+245,乐东,236,Music East,2,2802
+246,临高,236,Pro High,2,1896
+247,陵水,236,Lingshui,2,809
+248,南沙,236,Nansha,2,0
+249,琼海,236,Qionghai,2,1894
+250,琼中,236,Qiongzhong,2,1899
+251,三亚,236,Sanya,2,899
+252,屯昌,236,Tunchang,2,1892
+253,文昌,236,Wenchang,2,1893
+254,万宁,236,Manning,2,1898
+255,五指山,236,Fingers,2,1897
+256,西沙,236,Xisha,2,0
+257,中沙,236,in the sand,2,0
+258,吉林,0,CN_Jilin,1,0
+259,白城,258,White City,2,436
+260,白山,258,White Mountains,2,439
+261,长春,258,Changchun,2,431
+262,吉林,258,Jilin,2,432
+263,辽源,258,Liaoyuan,2,437
+264,四平,258,Siping,2,434
+265,松原,258,Matsubara,2,438
+266,通化,258,Tonghua,2,435
+267,延边,258,Yanbian,2,1433
+268,江苏,0,CN_Jiangsu,1,0
+269,常州,268,Changzhou,2,519
+270,淮安,268,Huai,2,517
+271,连云港,268,Lianyungang,2,518
+272,南京,268,Nanjing,2,25
+273,南通,268,Nantong,2,513
+274,宿迁,268,Suqian,2,527
+275,苏州,268,Suzhou,2,512
+276,泰州,268,Taizhou,2,523
+277,无锡,268,Wuxi,2,510
+278,徐州,268,Xuzhou,2,516
+279,盐城,268,Yancheng,2,515
+280,扬州,268,Yangzhou,2,514
+281,镇江,268,Zhenjiang,2,511
+282,江西,0,CN_Jiangxi,1,0
+283,抚州,282,Fuzhou,2,794
+284,赣州,282,Ganzhou,2,797
+285,吉安,282,Jian,2,796
+286,景德镇,282,Jingdezhen,2,798
+287,九江,282,Jiujiang,2,792
+288,南昌,282,Nanchang,2,791
+289,萍乡,282,Pingxiang,2,799
+290,上饶,282,Shangrao,2,793
+291,新余,282,Xinyu,2,790
+292,宜春,282,Yichun,2,795
+293,鹰潭,282,Yingtan,2,701
+294,辽宁,0,CN_Liaoning,1,0
+295,鞍山,294,Anshan,2,412
+296,本溪,294,Benxi,2,414
+297,朝阳,294,Chaoyang,2,421
+298,丹东,294,Dandong,2,415
+299,大连,294,Dalian,2,411
+300,抚顺,294,Fushun,2,413
+301,阜新,294,Fuxin,2,418
+302,葫芦岛,294,Huludao,2,429
+303,锦州,294,Jinzhou,2,416
+304,辽阳,294,Liaoyang,2,419
+305,盘锦,294,Panjin,2,427
+306,沈阳,294,Shenyang,2,24
+307,铁岭,294,Tieling,2,410
+308,营口,294,Yingkou,2,417
+309,内蒙古,0,CN_Inner Mongolia,1,0
+310,阿拉善,309,Alxa,2,483
+311,包头,309,Baotou,2,472
+312,巴彦淖尔,309,Bayannur,2,478
+313,赤峰,309,Chifeng,2,476
+314,鄂尔多斯,309,Erdos,2,477
+315,呼和浩特,309,Hohhot,2,471
+316,呼伦贝尔,309,Hulunbeier,2,470
+317,通辽,309,Tongliao,2,475
+318,乌海,309,Wuhai,2,473
+319,乌兰察布,309,Bu,2,474
+320,兴安,309,Xing,2,482
+321,锡林郭勒,309,Gol,2,479
+322,宁夏,0,CN_Ningxia,1,0
+323,固原,322,Guyuan,2,954
+324,石嘴山,322,Shizuishan,2,952
+325,吴忠,322,Wuzhong,2,953
+326,银川,322,Yinchuan,2,951
+327,中卫,322,Zhongwei,2,1953
+328,青海,0,CN_Qinghai,1,0
+329,果洛,328,Guoluo,2,975
+330,海北,328,rambling,2,970
+331,海东,328,Haidong,2,972
+332,黄南,328,Huangnan,2,973
+333,海南,328,Hainan,2,974
+334,海西,328,Hercynian,2,977
+335,西宁,328,Xining,2,971
+336,玉树,328,Yushu,2,976
+337,四川,0,CN_Sichuan,1,0
+338,阿坝,337,Aba,2,837
+339,巴中,337,Pakistan,2,827
+340,成都,337,Chengdu,2,28
+341,德阳,337,Deyang,2,838
+342,达州,337,Florida,2,818
+343,广安,337,Kwong,2,826
+344,广元,337,Guangyuan,2,839
+345,甘孜,337,Ganzi,2,836
+346,凉山,337,Liangshan,2,834
+347,乐山,337,Leshan,2,833
+348,泸州,337,Luzhou,2,830
+349,眉山,337,Meishan,2,1833
+350,绵阳,337,Mianyang,2,816
+351,南充,337,Nanchong,2,817
+352,内江,337,Neijiang,2,1832
+353,攀枝花,337,Panzhihua,2,812
+354,遂宁,337,Suining,2,825
+355,雅安,337,Yaan,2,835
+356,宜宾,337,Yibin,2,831
+357,自贡,337,Zigong,2,813
+358,资阳,337,Ziyang,2,832
+359,山东,0,CN_Shandong,1,0
+360,滨州,359,Binzhou,2,543
+361,东营,359,Dongying,2,546
+362,德州,359,Dezhou,2,534
+363,菏泽,359,Heze,2,530
+364,济南,359,Jinan,2,531
+365,济宁,359,Jining,2,537
+366,聊城,359,Liaocheng,2,635
+367,莱芜,359,Laiwu,2,634
+368,临沂,359,Linyi,2,539
+369,青岛,359,Qingdao,2,532
+370,日照,359,Rizhao,2,633
+371,泰安,359,Taian,2,538
+372,潍坊,359,Weifang,2,536
+373,威海,359,Weihai,2,631
+374,烟台,359,Yantai,2,535
+375,淄博,359,Zibo,2,533
+376,枣庄,359,Zaozhuang,2,632
+377,上海,0,CN_Shanghai,1,21
+378,宝山,377,Baoshan,2,0
+379,崇明,377,Chongming,2,0
+380,长宁,377,Changning,2,0
+381,奉贤,377,Fengxian,2,0
+382,虹口,377,Hongkou,2,0
+383,黄浦,377,Huangpu,2,0
+384,静安,377,Jing,2,0
+385,嘉定,377,Jiading,2,0
+386,金山,377,Jinshan,2,0
+387,卢湾,377,Luwan,2,0
+388,闵行,377,Minhang,2,0
+389,浦东新区,377,Pudong New District,2,0
+390,普陀,377,Po,2,0
+391,青浦,377,Qingpu,2,0
+392,松江,377,Songjiang,2,0
+393,徐汇,377,Xuhui,2,0
+394,杨浦,377,Yangpu,2,0
+395,闸北,377,Zhabei,2,0
+396,陕西,0,CN_Shaanxi,1,0
+397,安康,396,Ankang,2,915
+398,宝鸡,396,Baoji,2,917
+399,汉中,396,Hanzhong,2,916
+400,商洛,396,Shangluo,2,914
+401,铜川,396,Tongchuan,2,919
+402,渭南,396,Weinan,2,913
+403,西安,396,Xi'an,2,29
+404,咸阳,396,Xianyang,2,910
+405,延安,396,Yanan,2,911
+406,榆林,396,Yulin,2,912
+407,山西,0,CN_Shanxi,1,0
+408,长治,407,Changzhi,2,355
+409,大同,407,Datong,2,352
+410,晋城,407,Jincheng,2,356
+411,晋中,407,Jinzhong,2,354
+412,临汾,407,Linfen,2,357
+413,吕梁,407,Luliang,2,358
+414,朔州,407,Shuozhou,2,349
+415,太原,407,Taiyuan,2,351
+416,忻州,407,Xinzhou,2,350
+417,运城,407,Yuncheng,2,359
+418,阳泉,407,Yangquan,2,353
+419,天津,0,CN_Tianjin,1,22
+420,北辰,419,North Star,2,0
+421,宝坻,419,Baodi,2,0
+422,滨海新区,419,Binhai New Area,2,0
+423,东丽,419,Toray,2,0
+424,河北,419,Hebei,2,0
+425,河东,419,east,2,0
+426,和平,419,Peace,2,0
+427,红桥,419,Red Bridge,2,0
+428,河西,419,west,2,0
+429,静海,419,Jinghai,2,0
+430,津南,419,Jinnan,2,0
+431,蓟县,419,Jixian,2,0
+432,宁河,419,Ninghe,2,0
+433,南开,419,Nankai,2,0
+434,武清,419,Wuqing,2,0
+435,西青,419,West Green,2,0
+436,台湾,0,CN_Taiwan,1,0
+437,高雄市,436,Kaohsiung City,2,0
+438,花莲县,436,Hualien County,2,0
+439,基隆市,436,Keelung City,2,0
+440,金门县,436,Kinmen County,2,0
+441,嘉义市,436,Chiayi City,2,0
+442,嘉义县,436,Chiayi County,2,0
+443,连江县,436,Lianjiang County,2,0
+444,苗栗县,436,Miaoli County,2,0
+445,南投县,436,Nantou County,2,0
+446,屏东县,436,Pingtung County,2,0
+447,澎湖县,436,Penghu County,2,0
+448,台北市,436,Taipei,2,0
+449,台东县,436,Taitung County,2,0
+450,台南市,436,Tainan City,2,0
+451,桃园县,436,Taoyuan County,2,0
+452,台中市,436,Taichung City,2,0
+453,新北市,436,New Taipei City,2,0
+454,新竹市,436,Hsinchu City,2,0
+455,新竹县,436,Hsinchu County,2,0
+456,云林县,436,Yunlin County,2,0
+457,宜兰县,436,Yilan County,2,0
+458,彰化县,436,Changhua County,2,0
+459,西藏,0,CN_Tibet,1,0
+460,阿里,459,Ali,2,897
+461,昌都,459,Qamdo,2,895
+462,拉萨,459,Lhasa,2,891
+463,林芝,459,Nyingchi,2,894
+464,那曲,459,Nagqu,2,896
+465,日喀则,459,Shigatse,2,892
+466,山南,459,Shannan,2,893
+467,香港,0,CN_Hong Kong,1,1852
+468,北区,467,North,2,0
+469,大埔区,467,Tai Po,2,0
+470,东区,467,Eastern,2,0
+471,观塘区,467,Kwun Tong,2,0
+472,黄大仙区,467,Wong Tai Sin,2,0
+473,九龙城区,467,Kowloon City,2,0
+474,葵青区,467,Kwai Tsing,2,0
+475,离岛区,467,Islands,2,0
+476,南区,467,Southern,2,0
+477,荃湾区,467,Tsuen Wan,2,0
+478,深水埗区,467,Sham Shui Po,2,0
+479,沙田区,467,Sha Tin,2,0
+480,屯门区,467,Tuen Mun,2,0
+481,湾仔区,467,Wan Chai,2,0
+482,西贡区,467,Sai Kung,2,0
+483,油尖旺区,467,Yau Tsim Mong,2,0
+484,元朗区,467,Yuen Long,2,0
+485,中西区,467,Central and Western,2,0
+486,新疆,0,CN_Xinjiang,1,0
+487,阿克苏,486,Aksu,2,997
+488,阿拉尔,486,Arar,2,1997
+489,阿勒泰,486,Altay,2,906
+490,博尔塔拉,486,Bortala,2,909
+491,巴音郭楞,486,Bayingolin,2,996
+492,昌吉,486,Changji,2,994
+493,哈密,486,Hamilton,2,902
+494,和田,486,Hotan,2,903
+495,克拉玛依,486,Karamay,2,990
+496,喀什,486,Kashgar,2,998
+497,克孜勒苏,486,Kizilsu,2,908
+498,石河子,486,Shihezi,2,993
+499,塔城,486,Tacheng,2,901
+500,吐鲁番,486,Turpan,2,995
+501,图木舒克,486,Figure wooden Shook,2,1998
+502,五家渠,486,Wujiaqu,2,1994
+503,乌鲁木齐,486,Urumqi,2,991
+504,伊犁,486,Ili,2,999
+505,云南,0,CN_Yunnan,1,0
+506,保山,505,Baoshan,2,875
+507,楚雄,505,Chuxiong,2,878
+508,德宏,505,Devon,2,692
+509,大理,505,Dali,2,872
+510,迪庆,505,Diqing,2,887
+511,红河,505,Red,2,873
+512,昆明,505,Kunming,2,871
+513,临沧,505,Lincang,2,883
+514,丽江,505,Lijiang,2,888
+515,怒江,505,Nu,2,886
+516,普洱,505,Pu'er,2,879
+517,曲靖,505,Qujing,2,874
+518,文山,505,Wenshan,2,876
+519,西双版纳,505,Xishuangbanna,2,691
+520,玉溪,505,Yuxi,2,877
+521,昭通,505,Zhaotong,2,870
+522,浙江,0,CN_Zhejiang,1,0
+523,湖州,522,Huzhou,2,572
+524,杭州,522,Hangzhou,2,571
+525,金华,522,Jinhua,2,579
+526,嘉兴,522,Jiaxing,2,573
+527,丽水,522,Lishui,2,578
+528,宁波,522,Ningbo,2,574
+529,衢州,522,Quzhou,2,570
+530,绍兴,522,Shaoxing,2,575
+531,台州,522,Taizhou,2,576
+532,温州,522,Wenzhou,2,577
+533,舟山,522,Zhoushan,2,580
